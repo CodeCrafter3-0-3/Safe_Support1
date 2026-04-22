@@ -282,5 +282,11 @@ To make interactions with the AI more personalized and contextually aware, vecto
 Example: The AI can remember past interactions, such as a user’s previous emotional states or preferred coping strategies. This personalized knowledge allows the AI to provide more targeted advice, improving the support it offers over time.
 Using Groq's Llama model - Express LLM model and LangChain for embedding
 
+How to run-
+run the frontend-
+cd supportsafe/frontend
+npm run dev
 
+run the backend -
 
+fastapi dev backend/main.py
